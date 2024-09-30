@@ -1,5 +1,5 @@
 
-import Star from '../assets/star.png'
+import Star from '../assets/Star.png'
 import Star2 from '../assets/star2.png'
 import { useEffect } from 'react';
 import Aos from "aos";
