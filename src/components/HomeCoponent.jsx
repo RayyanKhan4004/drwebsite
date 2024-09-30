@@ -29,8 +29,8 @@ function HomeCoponent() {
                   fontSize: "20px",
                   color: "#474747",
                   letterSpacing: "1px",
-                  fontWeight: "lighter",
-                  opacity: 0.8,
+                 // fontWeight: "lighter",
+                 // opacity: 0.8,
                 }}
               >
                 At our hospital, we are dedicated to providing exceptional
