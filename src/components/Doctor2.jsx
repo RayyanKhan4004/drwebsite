@@ -30,7 +30,7 @@ function Doctor2() {
               fontSize: "20px",
               color: "#474747",
               letterSpacing: "1px",
-              fontWeight: "lighter",
+             // fontWeight: "lighter",
               opacity: 0.8,
             }}
           >
@@ -46,8 +46,8 @@ function Doctor2() {
               fontSize: "20px",
               color: "#474747",
               letterSpacing: "1px",
-              fontWeight: "lighter",
-              opacity: 0.8,
+             // fontWeight: "lighter",
+             // opacity: 0.8,
               marginTop: "20px",
             }}
           >
