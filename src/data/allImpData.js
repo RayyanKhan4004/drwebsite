@@ -31,8 +31,8 @@ const AllImpinfo = [
   {
     id: 2,
     // image: bonesImage,
-    image: 'https://scontent.flhe41-1.fna.fbcdn.net/v/t39.30808-6/458682291_1047614927252847_8012959825480635657_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=c5MEhq7hLpEQ7kNvgHYoKtQ&_nc_ht=scontent.flhe41-1.fna&_nc_gid=AqE7K8GOUmQzu01KVpsYS37&oh=00_AYDiVHlwC9LiAjtXqD-zs6FnPwd11EbStHmhKJ1_pPsJaw&oe=66F7C9BE',
-    name: "neuromuscular physical therapist ",
+    image: 'https://connemarahealing.com/wp-content/uploads/2022/07/R-3.jpg',
+    name: "Neuromuscular physical therapist ",
     description: "Data on bone structure, health, and related conditions.",
   },
   {
@@ -62,6 +62,46 @@ const AllImpinfo = [
     image: 'https://th.bing.com/th/id/OIG3.bAZ9qCpDJxVJMNVsOwgT?pid=ImgGn',
     name: "speech therapist",
     description: "Information about surgical procedures and treatments.", // Add description
+  },
+];
+
+// for home component update
+  export const AllImpinforServices = [
+  {
+    id: 1,
+   
+    image: 'https://deepmedicalcentre.com/wp-content/uploads/2023/02/image-7-768x522.png',
+    name: "MRI",
+    description: "Information related to dental health and care.",
+  },
+  {
+    id: 2,
+  
+    image: 'https://www.nj.com/resizer/v2/https%3A%2F%2Fimage.nj.com%2Fhome%2Fnjo-media%2Fwidth600%2Fimg%2Finside-jersey%2Fphoto%2Fmale-patient-in-medical-scanner-with-red-lights-2858642e2f8dd867.jpg?auth=2e186c3889537f82136094a6072ff912780edef61b4ea51aa802cf8b022af643&width=1280&quality=90',
+    name: "CT scan",
+    description: "Data on bone structure, health, and related conditions.",
+  },
+  {
+    id: 3,
+    
+    image: 'https://cdn.prod.website-files.com/5e0143c66e14efc18c6f469d/606511d893a7d258f1f11385_NoPath%20-%20Copy%20(7)%20(1).jpg',
+    name: "EEG ",
+    description: "Diagnostic tools and information for various medical conditions.",
+  },
+  {
+    id: 4,
+   
+    image: 'https://images.ctfassets.net/yixw23k2v6vo/2UsVwW0YCUYbzJGPNku0z0/8af7b12a4f2d27c05699bbf4ad19f487/07-GettyImages-1419204306.jpg?fm=webp&fit=thumb&q=65&w=512&h=512',
+    name: "EMG",
+    description: "An EMG is a diagnostic test that measures the electrical activity of muscles  ",
+  },
+
+  {
+    id: 5,
+    
+    image: 'https://lh6.googleusercontent.com/proxy/VGR9aK9jpbIMwmAjhDrsxtkCU4kDJcSuZ2qEFDZrGcqTrr6RolvC64PM6mgD7oGhbVIMZqvVR_0sFpX6wYbeGGdIR8lD9pj7XdHy18pxIXITR8HepCgwsT-NmBJFOPa092OigLmvtXoDVBTFLl3dNg',
+    name: "NCS",
+    description: " An NCS can help detect the presence and extent of peripheral nerve damage. ", 
   },
 ];
    
