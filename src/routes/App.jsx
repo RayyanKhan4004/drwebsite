@@ -3,8 +3,9 @@ import Navbar from "../components/Navbar";
 import HomeCoponent from "../components/HomeCoponent";
 import WhatsAppFloatingIcon from "../components/WhatsAppFloatingIcon";
 import Stats from "../components/Stats";
-import Card1 from "../components/Card1";
+// import Card1 from "../components/Card1";
 import Hero from "../components/Hero";
+import HomeCard from '../components/HomeCard'
 // import Card2 from "../components/Card2";
 // import Card3 from "../components/Card3";
 import SearchBar from "../components/SearchBar";
@@ -32,7 +33,7 @@ function App() {
               voluptates, voluptas nemo ex eaque?'
               animation='fade-down'
         />
-        <Card1 />
+        <HomeCard/>
 {/* 
         <BetweenText Heading='Meet our previous clint' 
         paragraph=' Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia
