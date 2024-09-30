@@ -1,5 +1,5 @@
 import React from "react";
-import Botox2 from "../assets/Botox2.png";
+import Botox2 from "../assets/botox2.png";
 import { useEffect } from "react";
 import Aos from "aos";
 function BotoxOvrlappingImgCompo() {
