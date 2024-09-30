@@ -37,7 +37,7 @@ function OrthoHero() {
                   fontSize: "18px",
                   color: "#474747",
                   letterSpacing: "1px",
-                  fontWeight: "lighter",
+                 // fontWeight: "lighter",
                   
                   opacity: 0.8,
                 }}
