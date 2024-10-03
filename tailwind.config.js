@@ -13,7 +13,8 @@ height :{
   card : '500px'
   },
 colors:{
-  theme1: `#007E85`
+  theme1: `#007E85`,
+  theme2 : `#563387`
 
 },
 fontFamily :{
