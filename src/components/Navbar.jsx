@@ -60,8 +60,8 @@ function Navbar({ style }) {
             navigate("/");
           }}
         >
-          <img className="" src={Logo} alt="daf" />
-          <p className="letterSpacing text-[#007E85] text-2xl font-semibold">Health</p>
+          <img className="w-[35px] rounded-full h-[35px]" src={Logo} alt="daf" />
+          <p className="letterSpacing text-[#563387] text-2xl font-semibold">Health</p>
           <p className="letterSpacing text-green-600 tracking-wider text-2xl font-semibold">
             care
           </p>
