@@ -29,8 +29,8 @@ function HomeCoponent() {
                   fontSize: "20px",
                   color: "#474747",
                   letterSpacing: "1px",
-                 // fontWeight: "lighter",
-                 // opacity: 0.8,
+                  // fontWeight: "lighter",
+                  opacity: 0.8,
                 }}
               >
                 At our hospital, we are dedicated to providing exceptional
@@ -47,14 +47,23 @@ function HomeCoponent() {
                 <br />
                 MBBS (Pb), FCPS (Neurology), CRCP (DOW)
                 <br />
-                Stroke and Vascular Neurology Fellowship (USA)
+                Stroke and Vascular Neurology Fellowship (MENA-SINO)
+                <br />
+                Member Society of Vascular and Interventional Neurology (SVIN)
                 <br />
                 Interventional and Diagnostic Neuroradiology Fellowship (USA)
                 <br />
                 Neurocritical Care Fellowship (USA)
                 <br />
                 Epilepsy Mini Fellowship (USA)
+                <br />
               </p>
+              <strong>Vice president
+              Pakistan stroke society </strong>
+              <br />
+              <strong>Director Stroke Program
+              Mayo hospital / KEMU , Lahore</strong>
+              
               <p className="text-sm" style={{ marginTop: "10px" }}>
                 <strong>Professional Memberships:</strong>
                 <br />
@@ -68,9 +77,15 @@ function HomeCoponent() {
               <p className="text-sm" style={{ marginTop: "10px" }}>
                 <strong>Experience:</strong>
                 <br />
-                Consultant Interventional Neurologist
+                {/* Consultant Interventional Neurologist */}
+                {/* <br /> */}
+                Consultant interventional neurologist (LGH, Lahore ) 
                 <br />
-                Ex-Assistant Professor & Head of Neurology Dept., SIMS/Services
+                Endovascular interventional neurologist (LGH,Lahore) 
+                <br />
+Stroke and vascular neurologist (LGH,Lahore) 
+                Ex-Assistant Professor & Head of Neurology Dept.
+                <br />, SIMS/Services
                 Hospital LHR
               </p>
               <button
