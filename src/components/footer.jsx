@@ -24,12 +24,17 @@ export default function Footer() {
          <div>
                 <div 
                 
-                data-aos='fade-right'
+                // data-aos='fade-right'
                 
                 
                 className="text-white max-lg:mb-3 text-start">
            
-                        <span className="text-3xl flex items-center font-bold">  <img className="-bottom-5 aspect-square h-14 w-14" src={Logo} alt="daf" /> Healthcare</span>
+                        <span className="text-3xl flex items-center font-bold">  <img className="-bottom-5 aspect-square h-[35px] w-[35px]  rounded-full" src={Logo} alt="Logo" /> 
+                        <span className='text-theme2 '>Health</span>
+                        <span className='' >
+                          Care
+                        </span>
+                        </span>
                        
                        
                      <div className=' max-lg:w-[32ch] ' >Copyright © 2022 BRIX Templates | All Rights Reserved </div>
@@ -45,7 +50,7 @@ export default function Footer() {
 
          
         <div 
-        data-aos='fade-down'
+        // data-aos='fade-down'
         
         >
           <span className='footerheading ' >Products</span>
@@ -59,7 +64,7 @@ export default function Footer() {
         </div>
 
         <div
-        data-aos='fade-up'
+        // data-aos='fade-up'
         >
           <span className='footerheading' >Company</span>
           <ul>
@@ -75,7 +80,7 @@ export default function Footer() {
 
         <div
         
-        data-aos='fade-down'
+        // data-aos='fade-down'
         >
           <span className='footerheading' >Support</span>
           <ul className='' >
@@ -90,7 +95,7 @@ export default function Footer() {
 
         <div 
         
-        data-aos='fade-up'
+        // data-aos='fade-up'
         
         >
           <span className='footerheading' >Follow us</span>
