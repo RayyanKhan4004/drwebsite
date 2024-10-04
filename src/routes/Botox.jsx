@@ -20,7 +20,7 @@ export class Botox extends Component {
           
              
           <Navbar style='pb-6' />
-          <WhatsAppFloatingIcon phoneNumber={'+923104168104'} message={`I there I have visited your website I'm interested in getting more information about it`} />
+          <WhatsAppFloatingIcon phoneNumber={'+923104168104'} message={`hi there I have visited your website I'm interested in getting more information about it`} />
           <BotoxHero/>
           <CustomHero  invert={false} img={botoxhero1} heading='Botox for Spasticity After Stroke' button='learn more' paragraph='Spasticity is a condition where the muscles become stiff due to prolonged contraction or spasm after neurological injuries like stroke. Patients may feel like spasticity is a problem with the muscles themselves, but the problem actually stems from miscommunication between the brain and the muscles.'  />
           <CustomHero  invert={true} img={botoxhero2}  button={'Learn More'} heading='Epidemiology of upper limb PSS in the RACS' paragraph='Role of botulinum toxin in the management of hand ulceration due to post-stroke spasticity among aged care residents'  />
