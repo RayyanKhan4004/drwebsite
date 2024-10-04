@@ -10,7 +10,7 @@ function Location() {
   return (
   <>
       <Navbar/>
-      <WhatsAppFloatingIcon phoneNumber={'+923104168104'} message={`I there I have visited your website I'm interested in getting more information about it`} />
+      <WhatsAppFloatingIcon phoneNumber={'+923104168104'} message={`Hi there I have visited your website I'm interested in getting more information about it`} />
   <div className='p-6' >
         <LocatiionHomeHealth/>
         <LocationServicesWeProvideCards/>   
