@@ -13,7 +13,7 @@ function Location() {
       <Navbar/>
       <WhatsAppFloatingIcon phoneNumber={'+923104168104'} message={`Hi there I have visited your website I'm interested in getting more information about it`} />
   <div className='p-6' >
-      <div className='flex justify-evenly items-center' >
+      <div className='flex max-sm:flex-col max-sm:gap-2 justify-evenly  items-center' >
 
 
 
