@@ -22,7 +22,7 @@ function OrthoRoute() {
     <div className="h-screen w-full">
       <div className="pt-[24px] px-65t">
         <Navbar style='pb-6' />
-        <WhatsAppFloatingIcon phoneNumber={'03244574564'} message={`I there I have visited your website I'm interested in getting more information about it`} />
+        <WhatsAppFloatingIcon phoneNumber={'+923104168104'} message={`I there I have visited your website I'm interested in getting more information about it`} />
       </div>
       {/* ? */}
       <div 
