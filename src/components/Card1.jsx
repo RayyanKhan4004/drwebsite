@@ -16,7 +16,7 @@ function Card1({ data }) {
 
     className="max-w-sm p-6 font-DMSans bg-white  border relative w-[391px] h-[460px] border-gray-200 rounded-3xl shadow items-center ">
       <a className='flex justify-center' href="#">
-        <img className="rounded-t-lg w-[344px] h-[220px]  " src={data.image} alt={data.name} />
+        <img className="rounded-lg w-[344px] h-[220px]  " src={data.image} alt={data.name} />
       </a>
       <div className="">
         <a href="#">
