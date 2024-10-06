@@ -13,6 +13,7 @@ import Footer from "../components/footer";
 import NeurologicalDisorders from "../components/NeurologicalDisorders";
 import BetweenText from "../components/BetweenText";
 import Doctor2 from "../components/Doctor2";
+import Doctor3 from "../components/Doctor3";
 function App() {
   return (
     <div className="max-h-screen  leading-relaxed items-center  ">
@@ -22,6 +23,7 @@ function App() {
         <NeurologicalDisorders />
       
         <Doctor2/>
+        <Doctor3/>
         <Stats />
         <Hero />
 
@@ -34,22 +36,9 @@ function App() {
               animation='fade-down'
         />
         <HomeCard/>
-{/* 
-        <BetweenText Heading='Meet our previous clint' 
-        paragraph=' Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia
-              aliquid at rem quibusdam! Quis distinctio iure corporis'
-              animation='fade-down'
-        />
-        <Card2 />
 
-        <BetweenText Heading='Testimonial'
-        paragraph=' Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia
-        aliquid at rem quibusdam! Quis distinctio iure corporis iste'
-        animation='fade-right'
-        />
-        <Card3 /> */}
         <SearchBar />
-        <WhatsAppFloatingIcon phoneNumber={'+923104168104'} message={`Hi there I have visited your website I'm interested in getting more information about it`} />
+        <WhatsAppFloatingIcon phoneNumber={'03244574564'} message={`I there I have visited your website I'm interested in getting more information about it`} />
       </div>
       <Footer />
     </div>
