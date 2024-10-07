@@ -9,7 +9,7 @@ function BotoxOvrlappingImgCompo() {
   return (
     <div
       style={{ borderRadius: 20 }}
-      className="flex justify-center mb-[100px] bg-white items-center"
+      className="flex justify-center mb-[100px] max-sm:bg-transparent bg-white items-center"
     >
       <div className="flex  max-md:flex-col-reverse justify-between lg:w-[1170px]  items-center h-[528px] ">
         <div data-aos="fade-up-right" className="  ">
