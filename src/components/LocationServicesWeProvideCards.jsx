@@ -19,7 +19,7 @@ function LocationServicesWeProvideCards() {
                     <div className='bg-transparent flex flex-col max-sm:w-auto max-sm:max-w-[380px] md:w-[650px] p-6 gap-4' >
                         <img 
                         data-aos='fade-down'
-                        className='w-[500px] h-[425px] rounded-lg' src={curr.img} alt={curr.name} />
+                        className='lg:w-[500px] lg:h-[425px] rounded-lg' src={curr.img} alt={curr.name} />
                         <h2 
                         
                         data-aos='fade-right'
