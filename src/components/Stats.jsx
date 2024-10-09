@@ -50,7 +50,7 @@ function Stats() {
             20<span className="opacity-55">%</span>
           </h6>
           <p class="text-sm font-medium tracking-widest text-gray-800 uppercase lg:text-base">
-            company groth
+            company growth
           </p>
         </div>
       </div>
