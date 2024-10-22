@@ -33,7 +33,7 @@ function HomeCoponent() {
                   opacity: 0.8,
                 }}
               >
-                At our hospital, we are dedicated to providing exceptional
+                We are dedicated to providing exceptional
                 medical care to our patients and their families. Our experienced
                 team of medical professionals, cutting-edge technology, and
                 compassionate approach make us a leader in the healthcare
