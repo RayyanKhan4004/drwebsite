@@ -38,7 +38,7 @@ function App() {
         <HomeCard/>
 
         <SearchBar />
-        <WhatsAppFloatingIcon phoneNumber={'03244574564'} message={`I there I have visited your website I'm interested in getting more information about it`} />
+        <WhatsAppFloatingIcon phoneNumber={'+923104168104'} message={`I there I have visited your website I'm interested in getting more information about it`} />
       </div>
       <Footer />
     </div>
