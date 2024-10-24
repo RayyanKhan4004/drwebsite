@@ -17,7 +17,7 @@ Aos.init({duration : 1000})
             <div className='flex justify-center item-center flex-col' >
             <h3  
              data-aos='fade-right'
-            className='typoBotoxtextH'>
+            className='typoBotoxtextH max-sm:text-2xl  '>
                 Before <span className='text-theme1' >And</span> After
             </h3>
             <p  
