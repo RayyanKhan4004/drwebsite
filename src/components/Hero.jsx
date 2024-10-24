@@ -1,5 +1,5 @@
 import React from 'react'
-import heroimg from '../assets/ImagePlaceholder.png'
+import heroimg from '../assets/image placeholder.png'
 import Aos from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from 'react';
@@ -21,7 +21,7 @@ function hero() {
                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vulputate dignissim augue, Nullam vulputate dignissim augue.
             </p>
             <div class="mt-5 gap-6 sm:flex md:mt-8">
-               <button className='w-[173px] h-[66px] rounded-[40px] text-white  bg-theme1  ' >Get Started</button>
+               <button className='w-[173px] h-[66px] rounded-[40px] text-white  bg-theme1 max-sm:mb-2 mr-2 ' >Get Started</button>
                <button className='w-[173px] h-[66px] rounded-[40px] text-theme1 hover:text-white bg-white hover:bg-theme1 duration-500  ' >Talk to sales</button>
                     
             </div>
