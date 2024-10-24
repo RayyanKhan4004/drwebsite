@@ -57,7 +57,7 @@ function OrthoHero() {
                 marginTop: "60px",
                 fontFamily: "LT",
               }}
-              className="bg-[#007E85] max-sm:mb-6 max-lg:mb-8 text-white letterSpacing "
+              className="bg-[#007E85] max-sm:mb-6 max-lg:mb-8 text-white letterSpacing ml-0"
             >
               Appointment
             </button>
