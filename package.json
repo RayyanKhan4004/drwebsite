@@ -34,5 +34,9 @@
     "postcss": "^8.4.41",
     "tailwindcss": "^3.4.9",
     "vite": "^5.4.0"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/RayyanKhan4004/drwebsite.git",
+  "author": "Rayyan Khan <rk4004104@gmail.com>",
+  "license": "MIT"
 }
