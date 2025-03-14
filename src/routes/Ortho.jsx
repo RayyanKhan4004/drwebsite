@@ -22,7 +22,7 @@ function OrthoRoute() {
     <div className="h-screen w-full">
       <div className="pt-[24px] px-65t">
         <Navbar style='pb-6' />
-        <WhatsAppFloatingIcon phoneNumber={'+923104168104'} message={`Hi there I have visited your website I'm interested in getting more information about it`} />
+        <WhatsAppFloatingIcon phoneNumber={'+923104168104'} message={`HI There I have visited your website I'm interested in getting more information about it`} />
       </div>
       {/* ? */}
       <div 
@@ -35,7 +35,7 @@ function OrthoRoute() {
 
         <div className="max-xl:pl-6">
           <h2 className="text-5xl font-latoB  text-white font-extrabold">
-            Bringing individualized <br />
+            Bringing Individualized <br />
             <span className="text-[#007E85] ">Healthcare</span>
           </h2>
           <br />
@@ -62,8 +62,7 @@ function OrthoRoute() {
         
         <OrthoHero />
         <BetweenText Heading='What Our Customer Say'
-        paragraph='Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia
-              aliquid at rem quibusdam! Quis distinctio iure corporis iste'
+        paragraph='Our patients trust us for expert care and compassionate treatment. They appreciate our friendly staff, accurate diagnoses, and personalized medical solutions. With a commitment to patient well-being, we ensure a comfortable and reassuring healthcare experience. See why our patients choose us for their health needs!'
               
               animation='fade-down'
               

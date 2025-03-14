@@ -14,7 +14,7 @@ const mapCss = ` hover:border-2 hover:border-theme1`
   return (
   <>
       <Navbar/>
-      <WhatsAppFloatingIcon phoneNumber={'03244574564'} message={`I there I have visited your website I'm interested in getting more information about it`} />
+      <WhatsAppFloatingIcon phoneNumber={'03244574564'} message={`HI There I have visited your website I'm interested in getting more information about it`} />
   <div className='p-6' >
       <div className='flex justify-evenly max-lg:flex-col max-lg:gap-4 items-center ' >
 

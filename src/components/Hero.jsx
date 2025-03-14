@@ -18,7 +18,7 @@ function hero() {
                 You have lots of reasons to choose us      
             </h2>
             <p class="max-w-md mx-auto mt-3 text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
-                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vulputate dignissim augue, Nullam vulputate dignissim augue.
+            We are committed to providing exceptional healthcare with a team of experienced doctors, personalized treatment plans, and state-of-the-art medical facilities. Our compassionate approach ensures that every patient receives the care and attention they deserve. With a strong reputation for trust and excellence, we strive to make your healthcare journey smooth and stress-free. Your well-being is our top priority, and we are here to support you every step of the way.
             </p>
             <div class="mt-5 gap-6 sm:flex md:mt-8">
                <button className='w-[173px] h-[66px] rounded-[40px] text-white  bg-theme1 max-sm:mb-2 mr-2 ' >Get Started</button>

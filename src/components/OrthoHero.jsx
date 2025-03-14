@@ -25,7 +25,7 @@ function OrthoHero() {
                 
               }}
             >
-              Bringing individualized
+              Bringing Individualized
               <span className="text-[#007E85]"> Healthcare</span> for A
               <br /> <span className="text-green-600">Healthy </span>
               future
