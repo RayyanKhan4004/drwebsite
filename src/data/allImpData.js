@@ -24,7 +24,7 @@ const AllImpinfo = [
   {
     id: 1,
     // image: dentalImage,
-    image: 'https://www.topdoctors.co.uk/files/Image/large/58b0424e-411c-4243-9228-4a0725bbab96.jpg',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuDGPdM8OLX7ZNWCJ6WzF76zJrbnBu2gwNGQ&s',
     name: "neurologist",
     description: "Information related to dental health and care.",
   },
@@ -59,7 +59,7 @@ const AllImpinfo = [
   {
     id: 6,
     // image: surgeryImage,
-    image: 'https://th.bing.com/th/id/OIG3.bAZ9qCpDJxVJMNVsOwgT?pid=ImgGn',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfUoKHLQgdBZm2C-BscR0AbK7ODGRyop5gXQ&s',
     name: "speech therapist",
     description: "Information about surgical procedures and treatments.", // Add description
   },
