@@ -27,7 +27,7 @@ function CustomHero({ img, heading, paragraph, invert, button }) {
               >
                 {heading}
               </h3>
-              `
+              
               <div style={{ marginTop: "30px" }} className="w-[587]  text-sm">
                 <p className=" max-md:w-auto md:w-[500px] text-sm font-poppins w-[40ch] text-black  ">
                   {paragraph}

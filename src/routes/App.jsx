@@ -30,15 +30,13 @@ function App() {
         {/* // */}
 
         <BetweenText  Heading='Service We Provide' 
-        paragraph=' Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia
-              aliquid at rem quibusdam! Quis distinctio iure corporis iste
-              voluptates, voluptas nemo ex eaque?'
+        paragraph='We provide comprehensive medical care with a focus on your health and well-being. Our services include general checkups, specialist consultations, diagnostics, preventive care, and emergency support. With expert doctors and modern facilities, we ensure the best treatment and personalized care for every patient. Your health is our priority!'
               animation='fade-down'
         />
         <HomeCard/>
 
         <SearchBar />
-        <WhatsAppFloatingIcon phoneNumber={'+923104168104'} message={`I there I have visited your website I'm interested in getting more information about it`} />
+        <WhatsAppFloatingIcon phoneNumber={'+923104168104'} message={`HI There I have visited your website I'm interested in getting more information about it`} />
       </div>
       <Footer />
     </div>

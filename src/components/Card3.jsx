@@ -9,7 +9,7 @@
 //     img: 'https://tailwindcss.com/img/jonathan.jpg',
 //     title: 'How to be effective at working remotely?',
 //     description:
-//       'Lorem Ipsum is simply dummy text of the printing and typesetting industry. ',
+//       'To work effectively remotely, create a dedicated workspace, follow a routine, and use the right tools for communication and task management. Stay connected with your team, minimize distractions, and take breaks to maintain productivity and balance.',
 //     category: 'ARTICLE',
 //     subcategory: 'PROCESS',
 //   },
